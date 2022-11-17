@@ -1,0 +1,113 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+html{
+  scroll-behavior: smooth;
+}
+ header i{
+  color:black;
+}
+.nav_bar{
+  text-align: center;
+  justify-content: center;
+  margin:auto;
+}
+.container1{
+  margin-top:60px;
+}
+.container1 button{
+  margin:10px;
+  padding: 5px 18px;
+}
+.container1 h5{
+  font-size: 24px;
+}
+
+
+
+
+.container2{
+  margin:5px;
+  margin-top:20px;
+  text-align: center;
+}
+
+
+
+.container3{
+  display: flex;
+  padding: 50px;
+}
+
+.container4{
+  padding:50px;
+  padding-bottom: 50px;
+}
+
+.button{
+  margin:30px;
+}
+.container5 h5{
+  position:absolute;
+  top: 200px;
+  left: 120px;
+  font-size:30px;
+  color: whitesmoke;
+}
+
+
+.container6{
+  text-align: center;
+  padding:30px;
+  font-size: 30px;
+}
+.container6 p{
+  font-size:18px;
+}
+.container6 i{
+color: gold;
+font-size: 20px;
+}
+
+
+.container7{
+  margin: 20px;
+  padding:40px;
+}
+
+
+.container8{
+  margin:20px;
+}
+
+
+.container9{
+  display:flex;
+  margin:25px 10px;
+  text-align: center;
+  font-size:12px;
+  padding: 40px 10px;
+}
+
+.container9 h4{
+  font-size: 12px;
+}
+
+
+
+footer{
+  background-color: black;
+  text-align: center;
+  color:white;
+  padding:30px;
+}
+.footer-icons{
+  color:white;
+  font-size:35px;
+  padding :10px;
+}
+
+.footer-bottom{
+  margin: bottom;
+}
